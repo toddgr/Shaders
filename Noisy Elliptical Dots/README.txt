@@ -5,3 +5,5 @@ For this project, I aimed to implement the provided noise TEX files to vary elli
 "Noise" in this context gives the pattern a more randomized look. In the video, you can see that as the user increases the frequency and amplitude of the noise, the ellipses look less and less like ellipses. What is so neat about this noise algorithm is that it is not nearly as random as it looks! Even after you change the noise values, the user is still able to replicate the pattern simply by rescaling the frequency and amplitude values.
 
 This is ideal for more natural textures, like cow prints, tiger stripes, planet surfaces, and more!
+
+Link to Youtube demonstration: https://www.youtube.com/watch?v=ZFDyZ5FQqYs
